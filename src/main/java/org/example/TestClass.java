@@ -1,10 +1,10 @@
-public class TestClass {
-
-    public static void main(String[] args) throws Exception { boolean flag = true;
-        switch (flag){
-            case true : System.out.println("true");
-            default: System.out.println("false"); }
-    } }
+//public class TestClass {
+//
+//    public static void main(String[] args) throws Exception { boolean flag = true;
+//        switch (flag){
+//            case true : System.out.println("true");
+//            default: System.out.println("false"); }
+//    } }
 
 //    public void switchString(String input) {
 ////        switch (input) {

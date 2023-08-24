@@ -1,6 +1,6 @@
 package org.example.stringExercises;
 
-public class theEnd {
+public class theEndSubstring {
     static String str = "razvan";
     static boolean front;
 
